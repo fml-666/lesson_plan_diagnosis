@@ -1,2 +1,6 @@
 streamlit
 zhipuai
+sniffio
+anyio>=3.0.0
+httpx
+pydantic
